@@ -25,7 +25,7 @@ student-performance-analyzer/
 
 ├── utils.py
 
-├── data/students.csv
+├── students.csv
 
 ## ▶️ How to Run
 ```bash
