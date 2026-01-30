@@ -18,9 +18,13 @@ Pandas and NumPy, with a simple machine-learning inspired scoring system.
 
 ## 📂 Project Structure
 student-performance-analyzer/
-├── analyzer.py 
+
+├── analyzer.py
+
 ├── main.py
+
 ├── utils.py
+
 ├── data/students.csv
 
 ## ▶️ How to Run
